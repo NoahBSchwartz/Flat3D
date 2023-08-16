@@ -4,11 +4,11 @@ This is code that was created to compete in the TSA Software Development Competi
 <p align="center">
   <img src="https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/aa768b78-3afc-43e2-9aa0-c05c6392af67" alt="unnamed (1)" width="250"/>
   <br>
-  <img src="https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/arrow.png" alt="arrow" height="500"/>
+  <img src="https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/arrow.png" alt="arrow" height="50"/>
   <br>
   <img src="https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/054dbea0-516c-42d0-94dc-0b7e4efcdcaa" alt="unnamed" width="250"/>
   <br>
-  <img src="https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/arrow.png" alt="arrow" height="500"/>
+  <img src="https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/arrow.png" alt="arrow" height="50"/>
   <br>
   <img src="https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/5ddadec2-3c3f-4239-b3b5-2ff5bb0fe103" alt="unnamed (2)" width="250"/>
 </p>

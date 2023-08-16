@@ -7,7 +7,16 @@ User
 Modify this github readme.md to make the arrows between gifs look nice: 
 
 ![unnamed (1)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/aa768b78-3afc-43e2-9aa0-c05c6392af67)
+
+
+
 ========>
+
+
 ![unnamed](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/054dbea0-516c-42d0-94dc-0b7e4efcdcaa)
+
+
 ========>
+
+
 ![unnamed (2)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/5ddadec2-3c3f-4239-b3b5-2ff5bb0fe103)

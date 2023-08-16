@@ -5,7 +5,7 @@ This project earned first place in the TSA Software Development Competition. It 
 - Process:
 I used Mediapipe to track the user's face in real-time (https://google.github.io/mediapipe/solutions/face_mesh.html). These coordinates were then fed into a Blender scene. The camera simply had to move in sync with the user's movements for a convincing effect. The final piece was some post-processing to give the parallax effect.
 
-![unnamed (1)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/aa768b78-3afc-43e2-9aa0-c05c6392af67)
+![output-onlinegiftools](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/7e6c6c57-22ea-441f-9308-e93fab3f557c)
 ㅤㅤ
 ![unnamed](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/054dbea0-516c-42d0-94dc-0b7e4efcdcaa)
 ㅤㅤ

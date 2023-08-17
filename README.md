@@ -22,15 +22,11 @@
 ## 🎉 Result
 In person, the effect is convincing enough to give the illusion of looking through the screen. In fact, it's more effective than 3D glasses in some cases because of the head tracking.
 
-![video (3)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/40b5c3d1-1af1-4af6-b889-17b079b56f3f)
-![output](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/6b1d14b5-8afa-4b4b-a650-de67fd948c84)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![video (3)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/40b5c3d1-1af1-4af6-b889-17b079b56f3f)
 
 ## 🚀 How to Use
 
 (Explain how others can use your project, including setup instructions, dependencies, and examples.)
 
-## 👥 Contributors
-
-- Your Name (Link to your GitHub profile)
 
 

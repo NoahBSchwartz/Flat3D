@@ -11,11 +11,11 @@
   4. Some post-processing on top gives the parallax effect.
 
 ## 🖼 Demo
-ㅤㅤㅤ
+ㅤ
   ![unnamed (1)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/89cac639-83b4-4d8b-b3e3-69dc46bbe5a5)
-  ㅤㅤㅤ
+  ㅤ
   ![unnamed](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/9a7b2c2d-a3a0-476a-bb07-dd6613269481)
-  ㅤㅤㅤ
+  ㅤ
   ![unnamed (2)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/3c98e1c2-a3e9-4cab-93a0-aee8e95b67af)
 
 ## 🎉 Result

@@ -1,4 +1,4 @@
-# 3D Glasses Illusion Project
+# Flat3D
 
 ## 🏆 Introduction
   This project gives the illusion of wearing 3D glasses using only a laptop by harnessing the power of AI and a bit of post-processing. It won first place at the Colorado Technology Student Association competition. 

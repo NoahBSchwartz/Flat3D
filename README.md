@@ -9,8 +9,7 @@
   2. These coordinates are fed into a Blender scene over a socket communication link
   3. The camera follows these coordinates to move in sync with the viewer's movements for a convincing effect
   4. Some post-processing on top gives the parallax effect.
-
-## 🖼 Demo
+     
 ㅤ
   ![unnamed (1)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/89cac639-83b4-4d8b-b3e3-69dc46bbe5a5)
   ㅤ

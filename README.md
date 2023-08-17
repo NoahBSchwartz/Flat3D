@@ -1,8 +1,7 @@
 # 3D Glasses Illusion Project
 
 ## 🏆 Introduction
-  This project gives the illusion of wearing 3D glasses with nothing but a laptop by harnessing the power of AI and a bit of post- 
-  processing. It won first place at the Colorado Technology Student Association competition! 
+  This project gives the illusion of wearing 3D glasses with nothing but a laptop by harnessing the power of AI and a bit of post-processing. It won first place at the Colorado Technology Student Association competition! 
 
 ## 🛠 Process
 

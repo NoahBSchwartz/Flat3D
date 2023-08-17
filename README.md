@@ -26,7 +26,7 @@ In person, the effect is convincing enough to give the illusion of looking throu
 
 ## 🚀 How to Use
 
-(Explain how others can use your project, including setup instructions, dependencies, and examples.)
+Explain how others can use your project, including setup instructions, dependencies, and examples.
 
 
 

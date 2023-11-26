@@ -22,9 +22,5 @@ In person, the effect is convincing enough to give the illusion of looking throu
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![video (3)](https://github.com/NoahBSchwartz/3D-Screen-Illusion/assets/44248582/40b5c3d1-1af1-4af6-b889-17b079b56f3f)
 
-## 🚀 How to Use
-
-Explain how others can use your project, including setup instructions, dependencies, and examples.
-
 
 
